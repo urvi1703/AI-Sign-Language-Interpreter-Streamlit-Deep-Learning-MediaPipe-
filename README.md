@@ -34,6 +34,7 @@ model/
 app/
 utils/
 ```
+* Kaggle Dataset link : https://www.kaggle.com/datasets/dorukdemirci/asl-alphabet-dataset
 
 ## ⚡ Future Improvements
 
